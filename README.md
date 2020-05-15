@@ -1,9 +1,9 @@
 # PWADemo
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
-# Notes on achieving PWA and SEO in a new app
+# Notes on achieving PWA
 
-Run ``ng add @angular/pwa --project YOUR_PROJECT_NAME_HERE``
+Run ``ng add @angular/pwa``
 
 ## Development server
 
